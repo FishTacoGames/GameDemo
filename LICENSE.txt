@@ -20,7 +20,6 @@ You may not, under any circumstances:
 4.2. Unauthorized use, modification, or redistribution of the Demo or its Content will be considered a breach of copyright and intellectual property law.
 4.3. The Licensor reserves the right to take appropriate action, including but not limited to:
 	Issuing a takedown notice to any platform hosting the unauthorized content, in accordance with copyright laws such as the Digital Millennium Copyright Act (DMCA) or 	other applicable regulations.
-4.4. Upon notification of unauthorized use, You must immediately cease distribution and delete any unauthorized copies of the Demo or its Content.
 
 5. Disclaimer
 The Demo is provided "as is," free of charge, without warranty of any kind, express or implied. The Licensor does not guarantee the Demo's functionality, performance, or suitability for any particular purpose.
