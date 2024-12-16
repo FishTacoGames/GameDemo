@@ -1,0 +1,31 @@
+License Agreement
+Last Updated: [2024-12-16]
+
+This License Agreement ("Agreement") is a legal agreement between the user ("You") and [FishTacoGames] ("Licensor") and its partners. By downloading, installing, or using the Demo software ("The Final Parallel"), You agree to the terms of this Agreement.
+
+1. Ownership
+All content within this Demo, including but not limited to code, graphics, models, animations, audio, text, and other assets (collectively, "Content"), is the exclusive property of the Licensor, its partners and third-party licensors.
+
+2. Permitted Use
+You are granted a limited, non-exclusive license to use the Demo solely for personal evaluation purposes.
+
+3. Prohibited Actions
+You may not, under any circumstances:
+3.1. Reuse any Content from the Demo for any purpose.
+3.2. Redistribute, publish, or share any part of the Demo or its Content.
+3.3. Use any Content from the Demo in other projects, products, or media, whether personal or commercial.
+
+4. Termination and Enforcement
+4.1. Any use of the Demo or its Content in violation of this Agreement immediately revokes the license granted to You.
+4.2. Unauthorized use, modification, or redistribution of the Demo or its Content will be considered a breach of copyright and intellectual property law.
+4.3. The Licensor reserves the right to take appropriate action, including but not limited to:
+	Issuing a takedown notice to any platform hosting the unauthorized content, in accordance with copyright laws such as the Digital Millennium Copyright Act (DMCA) or 	other applicable regulations.
+4.4. Upon notification of unauthorized use, You must immediately cease distribution and delete any unauthorized copies of the Demo or its Content.
+
+5. Disclaimer
+The Demo is provided "as is," free of charge, without warranty of any kind, express or implied. The Licensor does not guarantee the Demo's functionality, performance, or suitability for any particular purpose.
+
+7. Contact Information
+For inquiries, contact:
+[Adam - FishTacoGames]
+[adamjd.work@gmail.com]
